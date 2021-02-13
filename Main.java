@@ -8,6 +8,13 @@ import java.util.Random;
 import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to the guessing game! \nPlease enter any positive whole number: ");
+
+      Random r = new Random();
+      Scanner s = new Scanner(System.in);
+
+      int userNum;
+
+      System.out.println("Welcome to the guessing game! \nPlease enter any positive whole number: ");
+      userNum = s.nextInt();
     }
 }  
