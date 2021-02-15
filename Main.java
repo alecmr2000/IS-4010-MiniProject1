@@ -2,7 +2,7 @@
 /* 
 Mini Project 1
 Group #8: Alec Rezelj, Jason Morgner, Rolando Mendez, Stewart Shumrick
-Date: Febuary 13, 2021
+Date: Febuary 15, 2021
 */
 
 import java.util.Random;
